@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Youtube-Mp3-Offline</string>
+    <string name="action_settings">Settings</string>
+    <string name="youtube_mp3_url">http://www.youtube-mp3.org/</string>
+    <string name="use_share">Please use this in Youtube App- share video link to Youtube-Mp3-Offline</string>
+    <string name="downloading">Downloading...</string>
+</resources>
