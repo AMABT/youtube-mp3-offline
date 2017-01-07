@@ -1,5 +1,7 @@
 # Youtube-Mp3-Offline
 
+<p>This is an old repository - the new one is here: https://github.com/AMABT/youtube-list-download</p>
+
 <p>Mobile aplication to syncronize youtube playlists to local storage</p>
 
 <p>First iteration: share one video link to app and the application will download it as mp3</p>
